@@ -1,13 +1,13 @@
 <h1 align="center">Hi everyone👋, I'm Oskar Eduardo Info Giraldo</h1>
-<h3 align="center">A passionate about new technologies and UX / UI design</h3>
+<h3 align="center">A passionate about new technologies and web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=untalinfo" alt="untalinfo" /> </p>
 
 - 🔭 I’m currently working on [My personal website](https://github.com/untalinfo/AirBnB_clone_v3)
 
-- 🌱 I’m currently learning **Python, JS, Boostrap, MySQL, RESTful API,**
+- 🌱 I’m currently learning **Vuejs, Angular, React Native**
 
-- 💬 Ask me about **Python, HTML and CSS**
+- 💬 Ask me about **React, JS, SASS, MySQL, RESTful API, Redux, CSS, HTML, Ruby on Rails**
 
 - 📫 How to reach me **racso1607@gmail.com**
 
